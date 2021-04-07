@@ -1,5 +1,11 @@
 # "学生选课成绩管理系统" 示例程序验证
 
+
+
+<img src="https://img.shields.io/github/license/RipplePiam/student?color=blue&label=License"><img src="https://img.shields.io/github/languages/code-size/ripplepiam/student?label=Code%20Size"><img src="https://img.shields.io/github/v/release/ripplepiam/student?label=Release&logoColor=blue"><img src="https://img.shields.io/github/release-date/ripplepiam/student?label=Release%20Day"><img src="https://img.shields.io/github/v/tag/ripplepiam/student?label=Tag"><img src="https://img.shields.io/github/stars/ripplepiam/student?logoColor=blue&style=social"><img src="https://img.shields.io/github/watchers/ripplepiam/student?color=blue&logoColor=blue&style=social">
+
+
+
 > 实验项目基于`数据库实用教程/董健全，丁宝康编著. ——4版. ——北京：清华大学出版社`
 >
 > <img src="./demo/083969-01.jpg" alt="数据库实用教程" width="300">
@@ -124,8 +130,23 @@
 2. 课程信息维护窗口dw_1应该可选，删除时才有可视化交互；
 3. 课程信息维护窗口"请双击教师号"无实际操作效果，本意应对照列表选择存在的教师号；
 
-## 五、使用条例
+## 五、使用方式
 
-请遵守 GNU 通用公共许可证 v3.0开源协议.
+> :warning:在执行以下操作前不要运行项目！
+
+1. 安装好PowerBuilder；
+2. 下载安装好JDBC并在PowerBuilder中配置好[查看帮助](https://blog.csdn.net/qq_27677599/category_10762711.html)；
+3. 更改以下两处的数据库连接用户密码；
+
+<img src="demo/UpdateInfoHere.png" width="700" />
+
+4. 确保数据库连通测试通过后运行项目；
+5. 执行exe部署可生成student.exe可执行文件；
+
+
+
+## 六、使用条例
+
+请遵守 GNU 通用公共许可证 v3.0开源协议. [英文协议](https://www.gnu.org/licenses/gpl-3.0.en.html) [中文协议](https://www.gnu.org/licenses/quick-guide-gplv3.html)
 
 This project is licensed under the GNU General Public License v3.0, please follow.
