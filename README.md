@@ -84,35 +84,35 @@
 
 1. 学生登录
 
-   <img src="./demo/w_login.gif" alt="学生登录" style="zoom:60%;" />
+   <img src="./demo/w_login.gif" alt="学生登录" width="300" />
 
 2. 选课退课
 
-   <img src="./demo/w_select_course.gif" alt="选课退课" style="zoom:50%;" />
+   <img src="./demo/w_select_course.gif" alt="选课退课" width="700" />
 
 3. 学生成绩分布
 
-   <img src="./demo/w_select_student_score_report.gif" alt="学生成绩分布" style="zoom:50%;" />
+   <img src="./demo/w_select_student_score_report.gif" alt="学生成绩分布" width="700"/>
 
 4. 教师登录_管理
 
-   <img src="./demo/w_teacher_manage.gif" alt="教师登录_管理" style="zoom:60%;" />
+   <img src="./demo/w_teacher_manage.gif" alt="教师登录_管理" width="700" />
 
 5. 管理员登录_管理
 
-   <img src="./demo/w_manage.gif" alt="管理员登录_管理" style="zoom:60%;" />
+   <img src="./demo/w_manage.gif" alt="管理员登录_管理" width="700" />
 
 6. 学生信息维护
 
-   <img src="./demo/w_create_student.gif" alt="学生信息维护" style="zoom:78%;" />
+   <img src="./demo/w_create_student.gif" alt="学生信息维护" width="700" />
 
 7. 教师信息维护
 
-  <img src="./demo/w_create_teacher.gif" alt="教师信息维护" style="zoom:78%;" />
+   <img src="./demo/w_create_teacher.gif" alt="教师信息维护" width="700" />
 
 8. 课程信息维护
 
-  ​					<img src="./demo/w_create_course.gif" alt="课程信息维护" style="zoom:78%;" />
+   <img src="./demo/w_create_course.gif" alt="课程信息维护" width="700" />
 
   
 
