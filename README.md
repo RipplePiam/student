@@ -2,7 +2,7 @@
 
 
 
-<img src="https://img.shields.io/github/license/RipplePiam/student?color=blue&label=License"><img src="https://img.shields.io/github/languages/code-size/ripplepiam/student?label=Code%20Size"><img src="https://img.shields.io/github/v/release/ripplepiam/student?label=Release&logoColor=blue"><img src="https://img.shields.io/github/release-date/ripplepiam/student?label=Release%20Day"><img src="https://img.shields.io/github/v/tag/ripplepiam/student?label=Tag"><img src="https://img.shields.io/github/stars/ripplepiam/student?logoColor=blue&style=social"><img src="https://img.shields.io/github/watchers/ripplepiam/student?color=blue&logoColor=blue&style=social">
+<img src="https://img.shields.io/github/license/RipplePiam/student?color=blue&label=License">$~~$<img src="https://img.shields.io/github/languages/code-size/ripplepiam/student?label=Code%20Size">$~~$<img src="https://img.shields.io/github/v/release/ripplepiam/student?label=Release&logoColor=blue">$~~$<img src="https://img.shields.io/github/release-date/ripplepiam/student?label=Release%20Day">$~~$<img src="https://img.shields.io/github/v/tag/ripplepiam/student?label=Tag">$~~$<img src="https://img.shields.io/github/stars/ripplepiam/student?logoColor=blue&style=social">$~~$<img src="https://img.shields.io/github/watchers/ripplepiam/student?color=blue&logoColor=blue&style=social">
 
 
 
