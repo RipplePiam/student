@@ -132,7 +132,9 @@
 
 ## 五、使用方式
 
-> :warning:在执行以下操作前不要运行项目！
+> 1. :warning:在执行以下操作前不要运行项目！
+>
+> 2. 项目主目录是student；
 
 1. 安装好PowerBuilder；
 2. 下载安装好JDBC并在PowerBuilder中配置好[查看帮助](https://blog.csdn.net/qq_27677599/category_10762711.html)；
