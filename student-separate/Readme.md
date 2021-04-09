@@ -1,3 +1,10 @@
+### 一、模块导入方法
+
+<img src="../demo/import.png" width="400">
+
+### 二、目录文件列表
+
+```
 .
 |-- d_c.srd								课程表
 |-- d_s.srd								学生表
@@ -10,7 +17,6 @@
 |-- d_t.srd								教师表
 |-- d_t_select.srd						教师列表
 |-- m_student.srm						主菜单
-|-- p_student_exe.srj					应用生成可执行程序项目
 |-- student.sra							Generated Application Object
 |-- w_course_create.srw					"课程信息维护" 窗口
 |-- w_course_score_dis.srw				"课程成绩分布" 窗口
@@ -22,4 +28,7 @@
 |-- w_teacher_create.srw				"教师信息维护" 窗口
 `-- w_teacher_manage.srw				"成绩管理" 窗口
 
-0 directories, 22 files
+0 directories, 21 files
+```
+
+
